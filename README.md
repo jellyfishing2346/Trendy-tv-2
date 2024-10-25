@@ -12,6 +12,13 @@ This project is a React-based data dashboard that fetches and visualizes data fr
     .
     Summary Statistics: Displays at least three summary statistics about the data, such as total count, mean, median, or other relevant metrics1
     .
+    Data Visualization: The app includes at least one unique chart developed using the fetched data that tell an interesting story
+    .
+    Links to Detail View: 
+    Clicking on an item in the list view displays more details about it
+    Each detail view of an item has a direct, unique link to that item’s detail view page
+    .
+    
 
 📊 Dashboard Components
 The dashboard includes various chart types to visualize data effectively:
@@ -38,7 +45,7 @@ The dashboard includes various chart types to visualize data effectively:
     Chart.js (for data visualization)1
     API integration for data fetching
 
-    Loom:https://www.loom.com/share/f26eb81beac442f9b32899f4a31f8500?sid=e903ca7a-6159-4f97-a551-5dc6a68cb379
+    Loom:https://www.loom.com/share/b3f38b8882fb4522983e57d70b2902e4?sid=e7589e98-ef86-403e-8f54-4fc11e166211
 
 🔧 Customization
 The dashboard components are designed to be easily customizable. You can adjust chart colors, titles, and data sources as needed1
